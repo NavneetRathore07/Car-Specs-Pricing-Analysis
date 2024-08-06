@@ -52,8 +52,4 @@ The analysis provided valuable insights into the car dataset, helping to underst
 - Matplotlib
 - Seaborn
 
-## Author
 
-[Your Name]
-
-Data Analyst Intern at Unified Mentor Pvt Ltd
